@@ -43,15 +43,7 @@ This project presents a comprehensive supply chain management solution developed
 * **Visualization:** Create visualizations that highlight key findings in the data
 * **Report taking:** Interpret the results of analysis and derive actionable insights that can inform decision-making in the healthcare domain
 
-## Report
-1. Skincare emerges as the most lucrative product category, contributing significantly to the total revenue of ₹57,77,705, with skincare products alone accounting for ₹24,16,280.
-2. The total number of products sold amounted to 46,099 units.
-3. Roadways emerged as the primary mode of transportation, followed by seaways.
-4. Among cities, Mumbai stands out as the top revenue-generating hub, closely trailed by Kolkata, while Delhi records the least revenue.
-5. However, Kolkata leads in terms of the highest volume of products sold, followed by Mumbai.
-6. "Route A" emerges as the preferred transportation route, facilitating the transit of over 43% of the products.
-7. The overall satisfaction rate averages at 2.28, falling short of our target rate of 3.00.
-8. The average lead time for delivery stands at 14.77 days.
+
 
 
 

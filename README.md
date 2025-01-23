@@ -27,7 +27,7 @@ This project presents a comprehensive supply chain management solution developed
 * Routes
 * Costs
 
-week-1 task
+##week-1 task
 
 Inventory Table:
 1. Product type

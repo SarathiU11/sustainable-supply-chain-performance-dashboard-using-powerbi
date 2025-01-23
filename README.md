@@ -1,4 +1,4 @@
-# Supply Chain Dashboard using powr bi
+# Supply Chain Dashboard using power bi
 
 ## Overview
 This project presents a comprehensive supply chain management solution developed using Power BI.Leveraging real-world data, the dashboard offers deep insights into various facets of supply chain operations, including inventory management, sales analysis, and logistics optimization.

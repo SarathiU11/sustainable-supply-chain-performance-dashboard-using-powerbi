@@ -27,21 +27,36 @@ This project presents a comprehensive supply chain management solution developed
 * Routes
 * Costs
 
-## Requirements
-* What product category proves to be the most profitable in the overall revenue?
-* How does the total revenue compare to the revenue generated specifically from skincare products?
-* What insights can be drawn from the distribution of transportation modes?
-* Which cities stand out in terms of revenue generation and sales volume, and how do they compare to each other?
-* What patterns can be observed regarding the preferred transportation route?
-* How does the overall satisfaction rate align with the set target, and what implications does this difference suggest?
-* How does the average lead time for delivery impact customer satisfaction and operational efficiency?
-* What strategic recommendations could be proposed based on the insights derived from this supply chain dashboard report?
+week-1 task
 
-## Steps to meet the requirements
-* **Data Understanding:** Exploring the dataset to understand its structure and contents
-* **Data Preparation:** Clean and preprocess the data to ensure it's ready for analysisby using power query and DAX
-* **Visualization:** Create visualizations that highlight key findings in the data
-* **Report taking:** Interpret the results of analysis and derive actionable insights that can inform decision-making in the healthcare domain
+Inventory Table:
+1. Product type
+2. SKU
+3. Availability
+4. Number of products sold
+5. Customer demographics
+6. Stock levels
+7. Lead times
+8. Order quantities
+9. Lead time
+10. Revenue generated
+
+Manufacturing table
+1. Product type
+2. SKU
+3. Production volumes
+4. Manutacturing lead time
+5. Manufacturing costs
+6. Inspection results
+7. ⁠ defect rates
+
+Supplier Table
+1. Supplier name
+2. Location
+3. Lead time
+4. transportation modes
+5. Routes
+
 
 
 
